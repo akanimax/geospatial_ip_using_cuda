@@ -1,0 +1,3 @@
+# ignore the project related files.
+.cproject
+.project
